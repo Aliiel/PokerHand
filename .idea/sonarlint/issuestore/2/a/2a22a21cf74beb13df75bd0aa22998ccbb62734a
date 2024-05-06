@@ -1,5 +1,5 @@
 
-m	java:S106"+Replace this use of System.out by a logger.(ÉıÎ¼8Àò‘ëó1J$27743a85-9fa6-4625-be05-786a99d19d31
-r	java:S106"+Replace this use of System.out by a logger.(‰â‚úÿÿÿÿ8Áò‘ëó1J$743efb81-3423-4234-8945-7cfc2cf69fc0
-M
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8·†ëó1
+¡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢´€ƒıÿÿÿÿ8·µ˜ñô1J$ca62a985-d778-4d50-a3a8-ac2d7361994d
+m	java:S106'"+Replace this use of System.out by a logger.(ÉıÎ¼8—Áøğô1J$fc29a613-c5e2-47d5-a33e-351b7dec301f
+r	java:S106+"+Replace this use of System.out by a logger.(‰â‚úÿÿÿÿ8—Áøğô1J$e1b6abe2-f703-47f6-ac03-7f1f1f300904

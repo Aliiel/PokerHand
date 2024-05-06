@@ -1,0 +1,10 @@
+
+΅
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ΚΈΓϋÿÿÿÿ8—–ήρτ1J$de98ae26-6761-4180-b768-88ce3e4e5bf5
+΅	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±Ά™ωÿÿÿÿ8™–ήρτ1J$1e9754f0-e6c3-4f82-91d7-e667cb4f9ebd
+~
+java:S1854"";Remove this useless assignment to local variable "joueur2".(΅―€§8τΟίρτ1J$4affe66e-b1fe-40d1-9219-7464f9b095b5
+o
+java:S1481"",Remove this unused "joueur2" local variable.(΅―€§8φΟίρτ1J$4b4af692-5fb1-4bff-ab22-3f1845dc93b6
+s
+java:S5960("+Remove this assertion from production code.(Μ” αύÿÿÿÿ8©–ήρτ1J$f724d420-fab3-42ea-b390-71cf60b5d49a

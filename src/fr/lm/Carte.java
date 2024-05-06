@@ -1,6 +1,6 @@
 package fr.lm;
 
-public class Carte {
+public class Carte implements Comparable<Carte> {
     private Couleur couleur;
     private Hauteur hauteur;
 
@@ -20,5 +20,11 @@ public class Carte {
     @Override
     public String toString() {
         return hauteur.getNom() + " de " + couleur.getNom() + "\nvaleur de la carte : " + hauteur.getValeur();
+    }
+
+    @Override
+    public int compareTo(Carte autreCarte) {
+
+        return Integer.compare(this.hauteur.getValeur(), autreCarte.getHauteur().getValeur());
     }
 }

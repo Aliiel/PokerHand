@@ -10,6 +10,7 @@ public class Couleur {
     private String nom;
 
     public Couleur(String nom) {
+
         if (!couleursValides.contains(nom)) {
             throw new IllegalArgumentException("Couleur invalide : " + nom);
         }

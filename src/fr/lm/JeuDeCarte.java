@@ -42,25 +42,15 @@ public class JeuDeCarte {
     }
 
 
-    public List<Carte> distribuerMain() {
-
-        List<Carte> main = new ArrayList<>();
-        List<Carte> talon = new ArrayList<>();
-
-        this.genererJeu();
-        this.melangerJeuDeCarte();
-
-        if (this.cartes.size() < 52) {
-
-            talon.addAll(cartes);
+    public Carte distribuerCarte() {
+        if (cartes.isEmpty()) {
+            throw new IllegalStateException("Le jeu de cartes est vide.");
         }
+        return cartes.removeFirst();
+    }
 
-        for ( int i = 0; i < 5; i++ ) {
+    public int size() {
 
-            Carte carte = talon.removeFirst();
-            main.add(carte);
-        }
-
-        return main;
+        return cartes.size();
     }
 }
