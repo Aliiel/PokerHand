@@ -20,7 +20,6 @@ public class Main {
         PartiePoker partiePoker = new PartiePoker();
         partiePoker.lancerPartie(joueurs);
 
-
         joueur1.afficherJeu();
         joueur2.afficherJeu();
         joueur3.afficherJeu();
