@@ -1,13 +1,7 @@
 
-œ
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥û…ô8Áƒñô1J$5d21a3f5-588e-41f9-8b77-7c360cf6b134
-“
-java:S3776	"PRefactor this method to reduce its Cognitive Complexity from 3 to the 2 allowed.(Çµí‘8ÀÌÌñô1J$8b01e648-c658-4124-a7c6-1daa865ed602
-ƒ
-java:S1854";Remove this useless assignment to local variable "joueur3".(©ÁÞþúÿÿÿÿ8Ä‚Âñô1J$5d2addd3-320d-45d1-b2f1-b547ce051404
-
-java:S1854">Remove this useless assignment to local variable "mainJoueur".(¥û…ô8ÕÈŸñô1J$3af42cbc-a983-4fb2-a828-1f19c975f1bc
-r
-java:S1481"/Remove this unused "mainJoueur" local variable.(¥û…ô8ØÈŸñô1J$056ed1c5-29e4-4f80-9e17-2ca9b25d033b
-t
-java:S1481",Remove this unused "joueur3" local variable.(©ÁÞþúÿÿÿÿ8Ç‚Âñô1J$d9a1f373-b61c-47d9-9e52-e287e695c0f0
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥û…ô8ªÍÙ—õ1
+[
+java:S1854">Remove this useless assignment to local variable "mainJoueur".(¥û…ô8´ÍÙ—õ1
+L
+java:S1481"/Remove this unused "mainJoueur" local variable.(¥û…ô8·ÍÙ—õ1
