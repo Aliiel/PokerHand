@@ -29,3 +29,5 @@ N
 src/fr/lm/PartiePokerTest.java,c\c\ccce4f05186f96b9eada85668798c9e5d3a4150f
 M
 src/Test/PartiePokerTest.java,5\2\527219ab451a761434ad40839d0e112586ec8c96
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

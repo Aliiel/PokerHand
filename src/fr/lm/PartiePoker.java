@@ -28,7 +28,11 @@ public class PartiePoker {
                 joueur.addCarte(carte);
             }
         }
+
+        jeuDeCarte.size();
     }
 
+
+    
 
 }

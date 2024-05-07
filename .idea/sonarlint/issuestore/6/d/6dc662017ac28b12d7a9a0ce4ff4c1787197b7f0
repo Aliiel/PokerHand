@@ -1,20 +1,20 @@
 
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î½‡óüÿÿÿÿ8®ÿ»òô1J$ad504c8a-360f-4861-b49d-19f28aeb1533
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±¢™ùÿÿÿÿ8¯ÿ»òô1J$554d04bb-9132-4512-90ae-7b9efbf64198
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î½‡óüÿÿÿÿ8®ÿ»òô1J$2acf9284-4f46-4744-a9e7-e536b8b3652e
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±¢™ùÿÿÿÿ8¯ÿ»òô1J$081df570-405b-4f43-a2aa-4f021e91debd
 ‚
-java:S1854"?Remove this useless assignment to local variable "jeuDeCarte2".(Ä’Ç‡8É„Âòô1J$913ba3f0-68b7-49f9-a1d3-f75ba11ad206
+java:S1854"?Remove this useless assignment to local variable "jeuDeCarte2".(Ä’Ç‡8É„Âòô1J$6f199d0b-18ce-489a-b3f0-95abf4dae02b
 †
-java:S1854">Remove this useless assignment to local variable "JeuDeCarte".(î½‡óüÿÿÿÿ8É„Âòô1J$99eb38cd-2e38-4277-a514-ed766ee13464
+java:S1854">Remove this useless assignment to local variable "JeuDeCarte".(î½‡óüÿÿÿÿ8É„Âòô1J$dc24493c-b94e-47d8-9595-5a762d1dc28a
 w
-java:S1481"/Remove this unused "JeuDeCarte" local variable.(î½‡óüÿÿÿÿ8Ì„Âòô1J$b62c9bf0-c5fa-43e2-9102-0dc6d930027e
+java:S1481"/Remove this unused "JeuDeCarte" local variable.(î½‡óüÿÿÿÿ8Ì„Âòô1J$a2ddc90f-dbd9-48c2-84f2-77028d96db28
 s
-java:S1481"0Remove this unused "jeuDeCarte2" local variable.(Ä’Ç‡8Ì„Âòô1J$c2f83d76-1b72-4a83-b1a2-57edb5767cc9
+java:S1481"0Remove this unused "jeuDeCarte2" local variable.(Ä’Ç‡8Ì„Âòô1J$93cc3c4e-6352-47ca-8388-f7e254a24686
 k
-java:S1128"(Remove this unused import 'fr.lm.Carte'.(Ü àß8£è¼òô1J$8268f6fc-ff34-41f1-99cc-21a85b0efd21
+java:S1128"(Remove this unused import 'fr.lm.Carte'.(Ü àß8£è¼òô1J$589bb13c-1d2e-4ad4-a5b1-4e1145b3e590
 s
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8£è¼òô1J$75e8ae2c-397c-4401-b80b-a5a42968d85b
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8£è¼òô1J$bb485df5-c3af-46fa-96b4-d9e1ca6049ee
 s
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8£è¼òô1J$358def5b-511c-4dc9-9021-3a6223d20ab8
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8£è¼òô1J$97dc74b6-8c3c-4b37-8b60-5181df440c28
 …
 java:S1128
-"=Remove this unused import 'org.junit.jupiter.api.Assertions'.(âè¨ùÿÿÿÿ8Í„Âòô1J$f0fdf9ae-b35a-46c2-9761-e4efa3760739
+"=Remove this unused import 'org.junit.jupiter.api.Assertions'.(âè¨ùÿÿÿÿ8Í„Âòô1J$ebc626fb-5b80-40f0-8b8d-9bae504d85d0

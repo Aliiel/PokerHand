@@ -24,12 +24,16 @@ class PartiePokerTest {
 
         partie.lancerPartie(joueurs);
 
+
         assertEquals(5, joueur1.getMain().size());
         assertEquals(5, joueur2.getMain().size());
 
         for (int i = 0; i < joueur1.getMain().size(); i++) {
             assertNotEquals(joueur1.getMain().get(i), joueur2.getMain().get(i));
         }
+
+
+
 
 
     }
