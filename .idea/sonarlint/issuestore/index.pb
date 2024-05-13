@@ -27,3 +27,5 @@ M
 src/Test/PartiePokerTest.java,5\2\527219ab451a761434ad40839d0e112586ec8c96
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+K
+src/fr/lm/Combinaisons.java,4\8\48ad6b1b8ad655d140c576d0f25023e49c053164

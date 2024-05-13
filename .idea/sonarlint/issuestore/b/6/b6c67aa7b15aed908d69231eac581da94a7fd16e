@@ -1,5 +1,27 @@
 
 œ
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­šù8“ŸŠ÷1J$19e9e3f6-c919-424e-887e-aab7edf254c6
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­šù8“ŸŠ÷1J$00b9c90c-c4bf-4c38-a78f-81cb5275b438
 “
-java:S3776"PRefactor this method to reduce its Cognitive Complexity from 6 to the 2 allowed.(âÚ‡€8ŸŠ÷1J$5c2cd85f-2cb7-4832-8235-777fbe02bc40
+java:S3776"PRefactor this method to reduce its Cognitive Complexity from 6 to the 2 allowed.(âÚ‡€8ŸŠ÷1J$a73b15c0-8aa0-4cf0-9a1c-fb69398ddc8b
+˜
+java:S3776%"PRefactor this method to reduce its Cognitive Complexity from 6 to the 2 allowed.(ŠÂÈ×ÿÿÿÿÿ8òé÷1J$a9c68b19-bd36-4143-b1cf-b25b00ab06f3
+r	java:S106)"+Replace this use of System.out by a logger.(Å©†ûüÿÿÿÿ8Å¦ß÷1J$2a0dc01a-205c-48ee-9603-1157387e3cc7
+G	java:S106-"+Replace this use of System.out by a logger.(èèü™8Šöß÷1
+d
+java:S11166"Remove this empty statement.(ôŸìúÿÿÿÿ8âÆŠ÷1J$6f8215d6-ab8f-4d21-9b71-23119388c5e5
+d
+java:S1116;"Remove this empty statement.(ôŸìúÿÿÿÿ8‰İ‹÷1J$ca011cc9-9d4c-47a1-b6cd-12eafeec564a
+d
+java:S1116@"Remove this empty statement.(ôŸìúÿÿÿÿ8½¯Œ÷1J$f58a3176-e0d2-4879-b98d-c5f050fc0124
+d
+java:S1116E"Remove this empty statement.(ôŸìúÿÿÿÿ8½ÒŒ÷1J$e727435b-6279-44a3-9da3-a680f0f2df24
+d
+java:S1116J"Remove this empty statement.(ôŸìúÿÿÿÿ8ÒíŒ÷1J$578ae4f7-a761-4e23-bc21-6f1d735854ca
+d
+java:S1116O"Remove this empty statement.(ôŸìúÿÿÿÿ8’÷1J$c2c9a53e-cf91-44ed-a898-d84cc904aa33
+d
+java:S1116T"Remove this empty statement.(ôŸìúÿÿÿÿ8Ë¦÷1J$92b81247-ec58-4044-bffc-6c61a224644c
+d
+java:S1116Y"Remove this empty statement.(ôŸìúÿÿÿÿ8°÷1J$5cc9615e-ba60-48ba-9e71-8569c43fe2a8
+d
+java:S1116^"Remove this empty statement.(ôŸìúÿÿÿÿ8‚°÷1J$977c973e-b168-463c-b131-e9b8be49dbb4

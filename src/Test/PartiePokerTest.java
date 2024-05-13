@@ -11,6 +11,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class PartiePokerTest {
 
     private PartiePoker partie = new PartiePoker();
+    private PartiePoker partie2 = new PartiePoker();
 
     @Test
     void testPartie() {
@@ -34,6 +35,73 @@ class PartiePokerTest {
         }
 
         assertEquals(37, jeuDeCarte.getCartesRestantes().size());
+
+
+        Couleur coeur = new Couleur("Coeur");
+        Couleur pique = new Couleur("Pique");
+        Couleur trefle = new Couleur("Trèfle");
+        Couleur carreau = new Couleur("Carreau");
+        Hauteur roi = new Hauteur("Roi");
+        Hauteur valet = new Hauteur("Valet");
+        Hauteur trois = new Hauteur("3");
+        Hauteur huit = new Hauteur("8");
+        Hauteur six = new Hauteur("6");
+
+        Carte carte1 = new Carte(coeur, roi);
+        Carte carte2 = new Carte(pique, roi);
+        Carte carte3 = new Carte(trefle, valet);
+        Carte carte4 = new Carte(trefle, trois);
+        Carte carte5 = new Carte(carreau, huit);
+
+        List <Carte> main = new ArrayList<>();
+        main.add(carte1);
+        main.add(carte2);
+        main.add(carte3);
+        main.add(carte4);
+        main.add(carte5);
+
+        joueur1.setMain(main);
+
+        assertEquals(true,partie2.aUnePaire(main));
+
+        Carte carte6 = new Carte(coeur, roi);
+        Carte carte7 = new Carte(pique, huit);
+        Carte carte8 = new Carte(trefle, huit);
+        Carte carte9 = new Carte(carreau, valet);
+        Carte carte10 = new Carte(carreau, trois);
+
+        List <Carte> main2 = new ArrayList<>();
+        main2.add(carte6);
+        main2.add(carte7);
+        main2.add(carte8);
+        main2.add(carte9);
+        main2.add(carte10);
+
+        joueur2.setMain(main2);
+
+        assertEquals(true,partie2.aUnePaire(main2));
+
+        Carte carte11 = new Carte(coeur, roi);
+        Carte carte12 = new Carte(pique, huit);
+        Carte carte13 = new Carte(trefle, valet);
+        Carte carte14 = new Carte(carreau, six);
+        Carte carte15 = new Carte(carreau, trois);
+
+        List <Carte> main3 = new ArrayList<>();
+        main3.add(carte11);
+        main3.add(carte12);
+        main3.add(carte13);
+        main3.add(carte14);
+        main3.add(carte15);
+
+        joueur3.setMain(main3);
+
+        assertFalse(partie2.aUnePaire(main3));
+
+
+
+
+
     }
 
 

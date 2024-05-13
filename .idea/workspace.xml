@@ -6,19 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="0e4ab886-5193-47f7-922a-2a3a73f5461c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/527219ab451a761434ad40839d0e112586ec8c96" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/527219ab451a761434ad40839d0e112586ec8c96" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9deab039b919b6d42c773e1899ce78ad584d1da1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f763308aa2a6f8170ee40fdf0430c392835eb01" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f763308aa2a6f8170ee40fdf0430c392835eb01" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6c67aa7b15aed908d69231eac581da94a7fd16e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6c67aa7b15aed908d69231eac581da94a7fd16e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/ccce4f05186f96b9eada85668798c9e5d3a4150f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2b16afd4752e6352ff344e88e24ad401f136878" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2b16afd4752e6352ff344e88e24ad401f136878" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/d/9deab039b919b6d42c773e1899ce78ad584d1da1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/c/ccce4f05186f96b9eada85668798c9e5d3a4150f" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poker/Test/PartiePokerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Poker/Test/PartiePokerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Poker/fr/lm/PartiePoker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Poker/fr/lm/PartiePoker.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test/PartiePokerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/PartiePokerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fr/lm/JeuDeCarte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/lm/JeuDeCarte.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fr/lm/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/lm/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fr/lm/PartiePoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/lm/PartiePoker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +25,7 @@
       <list>
         <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -107,7 +102,7 @@
       <workItem from="1714979018369" duration="36000" />
       <workItem from="1714979074966" duration="19337000" />
       <workItem from="1715068189986" duration="18373000" />
-      <workItem from="1715590145584" duration="2528000" />
+      <workItem from="1715590145584" duration="7178000" />
     </task>
     <servers />
   </component>
