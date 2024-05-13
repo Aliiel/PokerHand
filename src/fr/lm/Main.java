@@ -23,8 +23,9 @@ public class Main {
         joueur3.afficherJeu();
 
         System.out.println("Nombre de cartes : " + jeuDeCarte.getCartesRestantes().size());
-
-
+        System.out.println("Présence d'une paire pour le joueur 1 : " + partiePoker.aUnePaire(joueur1.getMain()));
+        System.out.println("Présence d'une paire pour le joueur 2 : " + partiePoker.aUnePaire(joueur2.getMain()));
+        System.out.println("Présence d'une paire pour le joueur 3 : " + partiePoker.aUnePaire(joueur3.getMain()));
 
     }
 }

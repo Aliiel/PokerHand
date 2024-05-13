@@ -1,27 +1,31 @@
 
 œ
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­šù8“ŸŠ÷1J$00b9c90c-c4bf-4c38-a78f-81cb5275b438
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­šù8Œ·Ò÷1J$16e92a6e-e7df-4bd8-800e-fde6917ff735
 “
-java:S3776"PRefactor this method to reduce its Cognitive Complexity from 6 to the 2 allowed.(âÚ‡€8ŸŠ÷1J$a73b15c0-8aa0-4cf0-9a1c-fb69398ddc8b
+java:S3776"PRefactor this method to reduce its Cognitive Complexity from 6 to the 2 allowed.(âÚ‡€8¿·Ò÷1J$9013c7d3-4474-48f8-9faa-4926b28bfdb3
 ˜
-java:S3776%"PRefactor this method to reduce its Cognitive Complexity from 6 to the 2 allowed.(ŠÂÈ×ÿÿÿÿÿ8òé÷1J$a9c68b19-bd36-4143-b1cf-b25b00ab06f3
-r	java:S106)"+Replace this use of System.out by a logger.(Å©†ûüÿÿÿÿ8Å¦ß÷1J$2a0dc01a-205c-48ee-9603-1157387e3cc7
-G	java:S106-"+Replace this use of System.out by a logger.(èèü™8Šöß÷1
+java:S3776'"PRefactor this method to reduce its Cognitive Complexity from 6 to the 2 allowed.(ŠÂÈ×ÿÿÿÿÿ8Â·Ò÷1J$2f0e6f95-d971-4b17-b18f-b974a5a058cf
+r	java:S106+"+Replace this use of System.out by a logger.(Å©†ûüÿÿÿÿ8Ä·Ò÷1J$696ba8ba-49cd-404f-8c5a-98dca04fde89
+m	java:S106/"+Replace this use of System.out by a logger.(èèü™8Î·Ò÷1J$8f407463-7315-4ada-9dc5-76f2d87c451b
 d
-java:S11166"Remove this empty statement.(ôŸìúÿÿÿÿ8âÆŠ÷1J$6f8215d6-ab8f-4d21-9b71-23119388c5e5
+java:S11168"Remove this empty statement.(ôŸìúÿÿÿÿ8Ï·Ò÷1J$93b5f15d-eab2-4069-b9cf-639e306e9698
+”
+java:S3776;"QRefactor this method to reduce its Cognitive Complexity from 10 to the 2 allowed.(¦Åº©8Ğ·Ò÷1J$adc8e4f4-cc85-4f41-9c84-66859dc51538
 d
-java:S1116;"Remove this empty statement.(ôŸìúÿÿÿÿ8‰İ‹÷1J$ca011cc9-9d4c-47a1-b6cd-12eafeec564a
+java:S1116S"Remove this empty statement.(ôŸìúÿÿÿÿ8Ñ·Ò÷1J$5df15286-d576-45b9-a6a3-0caf8fc34953
 d
-java:S1116@"Remove this empty statement.(ôŸìúÿÿÿÿ8½¯Œ÷1J$f58a3176-e0d2-4879-b98d-c5f050fc0124
+java:S1116X"Remove this empty statement.(ôŸìúÿÿÿÿ8Ò·Ò÷1J$18480243-283e-43e5-a605-4d6bb4874b4f
 d
-java:S1116E"Remove this empty statement.(ôŸìúÿÿÿÿ8½ÒŒ÷1J$e727435b-6279-44a3-9da3-a680f0f2df24
+java:S1116]"Remove this empty statement.(ôŸìúÿÿÿÿ8İ·Ò÷1J$132095e4-4856-4b56-98a7-f77805bc0bc6
 d
-java:S1116J"Remove this empty statement.(ôŸìúÿÿÿÿ8ÒíŒ÷1J$578ae4f7-a761-4e23-bc21-6f1d735854ca
+java:S1116b"Remove this empty statement.(ôŸìúÿÿÿÿ8İ·Ò÷1J$8e8f6e8e-bfa1-45d0-9d2a-8bc7da2f96dc
 d
-java:S1116O"Remove this empty statement.(ôŸìúÿÿÿÿ8’÷1J$c2c9a53e-cf91-44ed-a898-d84cc904aa33
+java:S1116g"Remove this empty statement.(ôŸìúÿÿÿÿ8Ş·Ò÷1J$216dc886-cf47-4a66-9fd7-f21af4c6f448
 d
-java:S1116T"Remove this empty statement.(ôŸìúÿÿÿÿ8Ë¦÷1J$92b81247-ec58-4044-bffc-6c61a224644c
+java:S1116l"Remove this empty statement.(ôŸìúÿÿÿÿ8ß·Ò÷1J$76ea2a5e-ac1a-4e8e-b8d1-2dc493c82433
 d
-java:S1116Y"Remove this empty statement.(ôŸìúÿÿÿÿ8°÷1J$5cc9615e-ba60-48ba-9e71-8569c43fe2a8
+java:S1116q"Remove this empty statement.(ôŸìúÿÿÿÿ8à·Ò÷1J$e6dc9fd6-7d9b-43a4-aeef-1f22a0d10e0f
 d
-java:S1116^"Remove this empty statement.(ôŸìúÿÿÿÿ8‚°÷1J$977c973e-b168-463c-b131-e9b8be49dbb4
+java:S1116v"Remove this empty statement.(ôŸìúÿÿÿÿ8à·Ò÷1J$4d2a1c08-d2c4-4423-a408-e7b3bd94a16a
+H
+java:S1068"+Remove this unused "joueurs" private field.(±à¶8ƒ‘÷1

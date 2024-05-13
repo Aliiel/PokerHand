@@ -60,9 +60,7 @@ class PartiePokerTest {
         main.add(carte4);
         main.add(carte5);
 
-        joueur1.setMain(main);
-
-        assertEquals(true,partie2.aUnePaire(main));
+        assertTrue(partie2.aUnePaire(main));
 
         Carte carte6 = new Carte(coeur, roi);
         Carte carte7 = new Carte(pique, huit);
@@ -77,9 +75,7 @@ class PartiePokerTest {
         main2.add(carte9);
         main2.add(carte10);
 
-        joueur2.setMain(main2);
-
-        assertEquals(true,partie2.aUnePaire(main2));
+        assertTrue(partie2.aUnePaire(main2));
 
         Carte carte11 = new Carte(coeur, roi);
         Carte carte12 = new Carte(pique, huit);
@@ -94,13 +90,22 @@ class PartiePokerTest {
         main3.add(carte14);
         main3.add(carte15);
 
-        joueur3.setMain(main3);
-
         assertFalse(partie2.aUnePaire(main3));
 
+        Carte carte16 = new Carte(coeur, roi);
+        Carte carte17 = new Carte(pique, roi);
+        Carte carte18 = new Carte(trefle, huit);
+        Carte carte19 = new Carte(carreau, huit);
+        Carte carte20 = new Carte(carreau, trois);
 
+        List <Carte> main4 = new ArrayList<>();
+        main4.add(carte16);
+        main4.add(carte17);
+        main4.add(carte18);
+        main4.add(carte19);
+        main4.add(carte20);
 
-
+        assertTrue(partie2.aDeuxPaires(main4));
 
     }
 

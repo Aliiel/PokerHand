@@ -12,14 +12,15 @@ public class PartiePoker implements Combinaisons {
 
         this.joueurs = new ArrayList<Joueur>();
         this.jeuDeCarte = new JeuDeCarte();
-        this.lancerPartie(joueurs);
     }
 
 
     public JeuDeCarte lancerPartie(List<Joueur> joueurs) {
 
+        // mélange du jeu de carte
         jeuDeCarte.melangerJeuDeCarte();
 
+        // boucle jusqu'à 5 pour disctribuer 5 cartes différentes du même paquet selon le nombre de joueur dans la partie
         for (int i = 0; i < 5 ; i++) {
             for (Joueur joueur : joueurs) {
                 Carte carte;
@@ -30,6 +31,7 @@ public class PartiePoker implements Combinaisons {
             }
         }
 
+        // retourne le jeu de carte sans les cartes qui ont été distribuées
         return jeuDeCarte;
     }
 
@@ -39,22 +41,44 @@ public class PartiePoker implements Combinaisons {
         for (int i = 0; i < main.size(); i++) {
             Carte carte1 = main.get(i);
             System.out.println(carte1);
-            // On parcourt les cartes suivantes pour vérifier s'il y a une paire
+            // Parcourt des cartes suivantes pour vérifier s'il y a une paire
             for (int j = i + 1; j < main.size(); j++) {
                 Carte carte2 = main.get(j);
                 System.out.println(carte2);
-                // Si les deux cartes ont la même valeur, alors on a une paire
-                if (carte1.getHauteur().getValeur() == carte2.getHauteur().getValeur()) {
+                // Appel de la méthode compareTo de la classe carte afin de vérifier que 2 cartes ont la même valeur
+                if (carte1.compareTo(carte2) == 0) {
                     return true;
                 }
             }
         }
-        // Si on a parcouru toutes les cartes sans trouver de paire, on retourne false
+        // Retourne false si après le parcours des cartes aucune paire n'est trouvée
         return false;
     };
 
+    @Override
     public boolean aDeuxPaires(List<Carte> main) {
 
+        int nombrePaires = 0; // Compteur de paires
+
+        // Parcours chaque carte de la main
+        for (int i = 0; i < main.size(); i++) {
+            Carte carte1 = main.get(i);
+            // Parcours les cartes suivantes pour vérifier si elles forment une paire avec la carte actuelle
+            for (int j = i + 1; j < main.size(); j++) {
+                Carte carte2 = main.get(j);
+                // Si les deux cartes ont la même valeur, incrémentation du nombre de paires
+                if (carte1.compareTo(carte2) == 0) {
+                    nombrePaires++;
+                    // Si deux paires sont trouvées, retourne true
+                    if (nombrePaires == 2) {
+                        return true;
+                    }
+                    // Sortie de la boucle pour passer à la carte suivante
+                    break;
+                }
+            }
+        }
+        // Si deux paires n'ont pas été trouvées, retourne false
         return false;
     };
 
