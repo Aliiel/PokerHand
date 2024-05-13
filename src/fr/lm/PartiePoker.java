@@ -6,17 +6,18 @@ import java.util.List;
 public class PartiePoker {
 
     private List<Joueur> joueurs;
+    private JeuDeCarte jeuDeCarte;
 
     public PartiePoker() {
 
         this.joueurs = new ArrayList<Joueur>();
+        this.jeuDeCarte = new JeuDeCarte();
         this.lancerPartie(joueurs);
     }
 
 
-    public void lancerPartie(List<Joueur> joueurs) {
+    public JeuDeCarte lancerPartie(List<Joueur> joueurs) {
 
-        JeuDeCarte jeuDeCarte = new JeuDeCarte();
         jeuDeCarte.melangerJeuDeCarte();
 
         for (int i = 0; i < 5 ; i++) {
@@ -29,10 +30,9 @@ public class PartiePoker {
             }
         }
 
-        jeuDeCarte.size();
+        return jeuDeCarte;
     }
 
 
-    
 
 }

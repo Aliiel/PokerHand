@@ -1,4 +1,4 @@
 
 “
-java:S3776"PRefactor this method to reduce its Cognitive Complexity from 3 to the 2 allowed.(ύ‹³›8Θ„κπτ1J$7040027b-bb9c-4169-a03b-a749ab8e0a39
-r	java:S106#"+Replace this use of System.out by a logger.(‰β‚ϊÿÿÿÿ8Λ„κπτ1J$8f0e6b7f-5f1a-411e-b59d-ee85365df2aa
+java:S3776"PRefactor this method to reduce its Cognitive Complexity from 3 to the 2 allowed.(ύ‹³›8Θ„κπτ1J$b9bf3beb-203d-4297-ae30-9c1d66d8f091
+r	java:S106#"+Replace this use of System.out by a logger.(‰β‚ϊÿÿÿÿ8Λ„κπτ1J$cfcbd8d6-10dd-43b1-85d5-66c9719199b8

@@ -1,7 +1,8 @@
 
 œ
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥û…ô8ªÍÙ—õ1J$26fcbdb3-b714-4dac-b05d-fbfd69751a98
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥û…ô8”Æ›Š÷1J$9664c2b7-d3e3-4531-9798-9ee9fa09f7cf
 
-java:S1854">Remove this useless assignment to local variable "mainJoueur".(¥û…ô8´ÍÙ—õ1J$65c41f2f-61de-4d8f-a559-e3e0027dfad8
+java:S1854">Remove this useless assignment to local variable "mainJoueur".(¥û…ô8™Æ›Š÷1J$594aebb7-bb28-42fb-99fb-672bb5502912
 r
-java:S1481"/Remove this unused "mainJoueur" local variable.(¥û…ô8·ÍÙ—õ1J$232682b6-5950-4f6b-a317-8fed7743fbc3
+java:S1481"/Remove this unused "mainJoueur" local variable.(¥û…ô8Æ›Š÷1J$1ac486fc-2158-4f3b-8bc7-021e1d923069
+r	java:S106"+Replace this use of System.out by a logger.(—ÊÃßúÿÿÿÿ8 Æ›Š÷1J$ddb5cd69-9bec-48e4-b6f8-2752b8a0ba64

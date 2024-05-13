@@ -49,8 +49,7 @@ public class JeuDeCarte {
         return cartes.removeFirst();
     }
 
-    public int size() {
-
-        return cartes.size();
+    public List<Carte> getCartesRestantes() {
+        return cartes;
     }
 }

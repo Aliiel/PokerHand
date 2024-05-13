@@ -21,12 +21,8 @@ I
 src/Test/HauteurTest.java,0\6\068580b72ee24c17563d398dbe28af4a29f082d9
 L
 src/Test/JeuDeCarteTest.java,6\d\6dc662017ac28b12d7a9a0ce4ff4c1787197b7f0
-G
-src/fr/lm/JeuPoker.java,9\d\9deab039b919b6d42c773e1899ce78ad584d1da1
 J
 src/fr/lm/PartiePoker.java,b\6\b6c67aa7b15aed908d69231eac581da94a7fd16e
-N
-src/fr/lm/PartiePokerTest.java,c\c\ccce4f05186f96b9eada85668798c9e5d3a4150f
 M
 src/Test/PartiePokerTest.java,5\2\527219ab451a761434ad40839d0e112586ec8c96
 9
