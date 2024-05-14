@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e4ab886-5193-47f7-922a-2a3a73f5461c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/12beab26cebd21c9be90ad7a37dacdeacaa56af9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/12beab26cebd21c9be90ad7a37dacdeacaa56af9" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/527219ab451a761434ad40839d0e112586ec8c96" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/2/527219ab451a761434ad40839d0e112586ec8c96" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f763308aa2a6f8170ee40fdf0430c392835eb01" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f763308aa2a6f8170ee40fdf0430c392835eb01" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6c67aa7b15aed908d69231eac581da94a7fd16e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6c67aa7b15aed908d69231eac581da94a7fd16e" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Poker/Test/PartiePokerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Poker/Test/PartiePokerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Poker/fr/lm/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Poker/fr/lm/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Poker/fr/lm/PartiePoker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Poker/fr/lm/PartiePoker.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test/PartiePokerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/PartiePokerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/lm/Carte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/lm/Carte.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fr/lm/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/lm/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/fr/lm/PartiePoker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fr/lm/PartiePoker.java" afterDir="false" />
     </list>
@@ -103,7 +102,8 @@
       <workItem from="1714979018369" duration="36000" />
       <workItem from="1714979074966" duration="19337000" />
       <workItem from="1715068189986" duration="18373000" />
-      <workItem from="1715590145584" duration="13168000" />
+      <workItem from="1715590145584" duration="13354000" />
+      <workItem from="1715685288171" duration="3999000" />
     </task>
     <servers />
   </component>

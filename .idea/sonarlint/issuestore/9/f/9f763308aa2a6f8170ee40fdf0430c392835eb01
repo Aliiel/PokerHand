@@ -1,11 +1,12 @@
 
 œ
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥û…ô8¢Øƒ÷1J$4df3340d-5bb7-4d9a-b850-fe0c8475fc29
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥û…ô8¢Øƒ÷1J$de935211-41b2-4bec-885d-a20295a1777a
 
-java:S1854">Remove this useless assignment to local variable "mainJoueur".(¥û…ô8ªØƒ÷1J$46d26056-8aa9-46ad-a292-73b9427079cf
+java:S1854">Remove this useless assignment to local variable "mainJoueur".(¥û…ô8ªØƒ÷1J$8c22787b-ef16-4a51-9ad5-2c29f1aff8fd
 r
-java:S1481"/Remove this unused "mainJoueur" local variable.(¥û…ô8¬Øƒ÷1J$aa87b65e-14fb-447d-9d68-23736fc7e524
-r	java:S106"+Replace this use of System.out by a logger.(—ÊÃßúÿÿÿÿ8®Øƒ÷1J$fbef1038-004a-4876-86d7-5e1a22900a95
-m	java:S106"+Replace this use of System.out by a logger.(ÔÕ¤È8®Øƒ÷1J$ac9b804e-b1c1-4340-af37-4359c8b14b47
-m	java:S106"+Replace this use of System.out by a logger.(•üêã8–é‰÷1J$3f821253-13ca-4bad-a2d3-290b90fff063
-l	java:S106"+Replace this use of System.out by a logger.( Î”58—é‰÷1J$b97ef857-0d2f-4603-822d-adfd56d3633e
+java:S1481"/Remove this unused "mainJoueur" local variable.(¥û…ô8¬Øƒ÷1J$fa6f7392-4f33-4b3b-a1c2-3fcf3c5b27f7
+r	java:S106"+Replace this use of System.out by a logger.(—ÊÃßúÿÿÿÿ8®Øƒ÷1J$3d77ebd7-66ad-4146-8e61-d592f037064b
+m	java:S106"+Replace this use of System.out by a logger.(ÔÕ¤È8®Øƒ÷1J$e7aae20e-9c5e-46d3-ae32-fa629494b094
+m	java:S106"+Replace this use of System.out by a logger.(•üêã8–é‰÷1J$6b2fccaf-eb36-48b9-9f8b-7f2316dd127a
+l	java:S106"+Replace this use of System.out by a logger.( Î”58—é‰÷1J$7034c70e-c9b4-4402-a203-06dcd76b74c6
+m	java:S106"+Replace this use of System.out by a logger.(‰Ô«Ç8àµé¶÷1J$c66782c8-523f-477f-ba79-3c3e01b6f0cf

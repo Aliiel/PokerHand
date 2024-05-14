@@ -107,8 +107,21 @@ class PartiePokerTest {
 
         assertTrue(partie2.aDeuxPaires(main4));
 
+        Carte carte21 = new Carte(pique, roi);
+        Carte carte22 = new Carte(pique, roi);
+        Carte carte23 = new Carte(pique, huit);
+        Carte carte24 = new Carte(pique, huit);
+        Carte carte25 = new Carte(pique, trois);
+
+        List <Carte> main5 = new ArrayList<>();
+        main5.add(carte21);
+        main5.add(carte22);
+        main5.add(carte23);
+        main5.add(carte24);
+        main5.add(carte25);
+
+        assertTrue(partie2.aUneCouleur(main5));
+
     }
-
-
 
 }

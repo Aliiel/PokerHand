@@ -20,7 +20,7 @@ public class PartiePoker implements Combinaisons {
         // mélange du jeu de carte
         jeuDeCarte.melangerJeuDeCarte();
 
-        // boucle jusqu'à 5 pour disctribuer 5 cartes différentes du même paquet selon le nombre de joueur dans la partie
+        // boucle jusqu'à 5 pour distribuer 5 cartes différentes du même paquet selon le nombre de joueurs dans la partie
         for (int i = 0; i < 5 ; i++) {
             for (Joueur joueur : joueurs) {
                 Carte carte;
@@ -40,11 +40,9 @@ public class PartiePoker implements Combinaisons {
 
         for (int i = 0; i < main.size(); i++) {
             Carte carte1 = main.get(i);
-            System.out.println(carte1);
-            // Parcourt des cartes suivantes pour vérifier s'il y a une paire
+            // Parcours des cartes suivantes pour vérifier s'il y a une paire
             for (int j = i + 1; j < main.size(); j++) {
                 Carte carte2 = main.get(j);
-                System.out.println(carte2);
                 // Appel de la méthode compareTo de la classe carte afin de vérifier que 2 cartes ont la même valeur
                 if (carte1.compareTo(carte2) == 0) {
                     return true;
@@ -53,7 +51,7 @@ public class PartiePoker implements Combinaisons {
         }
         // Retourne false si après le parcours des cartes aucune paire n'est trouvée
         return false;
-    };
+    }
 
     @Override
     public boolean aDeuxPaires(List<Carte> main) {
@@ -80,46 +78,64 @@ public class PartiePoker implements Combinaisons {
         }
         // Si deux paires n'ont pas été trouvées, retourne false
         return false;
-    };
+    }
 
     public boolean aUnBrelan(List<Carte> main) {
 
         return false;
-    };
+    }
 
     public boolean aUneQuinte(List<Carte> main) {
 
         return false;
-    };
+    }
 
     public boolean aUneCouleur(List<Carte> main) {
 
+        int couleurs = 0; // compteur de couleurs
+
+        for (int i = 0; i < main.size(); i++) {
+            Carte carte1 = main.get(i);
+
+            // Parcours les cartes suivantes pour vérifier si elles ont la même couleur
+            for (int j = i + 1; j < main.size(); j++) {
+                Carte carte2 = main.get(j);
+
+                // Si les deux cartes ont la même couleur, incrémentation de la variable couleur
+                if (carte1.equals(carte2)) {
+                    couleurs++;
+
+                    // Si 5 cartes de même couleur sont trouvées, retourne true
+                    if (couleurs == 4) {
+                        return true;
+                    }
+                    // Sortie de la boucle pour passer à la carte suivante
+                    break;
+                }
+            }
+        }
+
         return false;
-    };
+    }
 
     public boolean aUnFull(List<Carte> main) {
 
         return false;
-    };
+    }
 
     public boolean aUnCarre(List<Carte> main) {
 
         return false;
-    };
+    }
 
     public boolean aUneQuinteFlush(List<Carte> main) {
 
         return false;
-    };
+    }
 
     public boolean aUneQuinteFlushRoyale(List<Carte> main) {
 
         return false;
-    };
-
-
-
-
-
+    }
 
 }

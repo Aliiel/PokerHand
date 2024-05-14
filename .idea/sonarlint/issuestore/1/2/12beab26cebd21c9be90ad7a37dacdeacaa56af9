@@ -1,3 +1,7 @@
 
 ¡
-java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¹òÈ´şÿÿÿÿ8Ûšíìô1J$f7a748f6-1b59-4fbd-ac18-572e7ba927ed
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¹òÈ´şÿÿÿÿ8üÂ·÷1J$95262d50-af25-4e4a-bb72-0f41f9bbf495
+
+java:S1201"UEither override Object.equals(Object), or rename the method to prevent any confusion.(ñŸŠ¸ùÿÿÿÿ8ƒÂ·÷1J$80dc62c7-b48d-4802-89e5-17c919c0ca7b
+‰
+java:S1126!"AReplace this if-then-else statement by a single return statement.(ª€±¶ÿÿÿÿÿ8¼ÕÂ·÷1J$a9a9ef98-c51e-4855-aa68-d1e5aad2fccb

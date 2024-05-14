@@ -27,4 +27,15 @@ public class Carte implements Comparable<Carte> {
 
         return Integer.compare(this.hauteur.getValeur(), autreCarte.getHauteur().getValeur());
     }
+
+    public boolean equals(Carte autreCarte) {
+
+        if (this.getCouleur().equals(autreCarte.getCouleur())) {
+
+            return true;
+        }
+
+        return false;
+    }
+
 }
