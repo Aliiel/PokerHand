@@ -1,7 +1,9 @@
 package fr.lm;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class PartiePoker implements Combinaisons {
 
@@ -81,6 +83,22 @@ public class PartiePoker implements Combinaisons {
     }
 
     public boolean aUnBrelan(List<Carte> main) {
+
+        // création d'un HashMap pour contenir les cartes ayant une même valeur
+        Map<Hauteur, Integer> occurrences = new HashMap<>();
+
+        // Compte les occurrences de chaque valeur de carte
+        for (Carte carte : main) {
+            Hauteur valeur = carte.getHauteur();
+            occurrences.put(valeur, occurrences.getOrDefault(valeur, 0) + 1);
+        }
+
+        // Vérifie s'il y a une valeur avec 3 occurrences
+        for (int count : occurrences.values()) {
+            if (count >= 3) {
+                return true;
+            }
+        }
 
         return false;
     }

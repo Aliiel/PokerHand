@@ -109,9 +109,9 @@ class PartiePokerTest {
 
         Carte carte21 = new Carte(pique, roi);
         Carte carte22 = new Carte(pique, roi);
-        Carte carte23 = new Carte(pique, huit);
-        Carte carte24 = new Carte(pique, huit);
-        Carte carte25 = new Carte(pique, trois);
+        Carte carte23 = new Carte(carreau, six);
+        Carte carte24 = new Carte(coeur, huit);
+        Carte carte25 = new Carte(pique, roi);
 
         List <Carte> main5 = new ArrayList<>();
         main5.add(carte21);
@@ -120,7 +120,7 @@ class PartiePokerTest {
         main5.add(carte24);
         main5.add(carte25);
 
-        assertTrue(partie2.aUneCouleur(main5));
+        assertTrue(partie2.aUnBrelan(main5));
 
     }
 

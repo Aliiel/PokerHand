@@ -1,12 +1,13 @@
 
 œ
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥û…ô8¢Øƒ÷1J$de935211-41b2-4bec-885d-a20295a1777a
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥û…ô8¢Øƒ÷1J$b9834aab-7dba-4580-b7d1-9ea7b0576339
 
-java:S1854">Remove this useless assignment to local variable "mainJoueur".(¥û…ô8ªØƒ÷1J$8c22787b-ef16-4a51-9ad5-2c29f1aff8fd
+java:S1854">Remove this useless assignment to local variable "mainJoueur".(¥û…ô8ªØƒ÷1J$c47fff71-9043-4ee6-bed4-09aad8449ae7
 r
-java:S1481"/Remove this unused "mainJoueur" local variable.(¥û…ô8¬Øƒ÷1J$fa6f7392-4f33-4b3b-a1c2-3fcf3c5b27f7
-r	java:S106"+Replace this use of System.out by a logger.(—ÊÃßúÿÿÿÿ8®Øƒ÷1J$3d77ebd7-66ad-4146-8e61-d592f037064b
-m	java:S106"+Replace this use of System.out by a logger.(ÔÕ¤È8®Øƒ÷1J$e7aae20e-9c5e-46d3-ae32-fa629494b094
-m	java:S106"+Replace this use of System.out by a logger.(•üêã8–é‰÷1J$6b2fccaf-eb36-48b9-9f8b-7f2316dd127a
-l	java:S106"+Replace this use of System.out by a logger.( Î”58—é‰÷1J$7034c70e-c9b4-4402-a203-06dcd76b74c6
-m	java:S106"+Replace this use of System.out by a logger.(‰Ô«Ç8àµé¶÷1J$c66782c8-523f-477f-ba79-3c3e01b6f0cf
+java:S1481"/Remove this unused "mainJoueur" local variable.(¥û…ô8¬Øƒ÷1J$5b049a63-6480-4046-9891-5483cd60f236
+r	java:S106"+Replace this use of System.out by a logger.(—ÊÃßúÿÿÿÿ8®Øƒ÷1J$a081da9c-ed81-497a-9e00-7cc33f1ca403
+r	java:S106"+Replace this use of System.out by a logger.(Â¶¤úÿÿÿÿ8®Øƒ÷1J$34afd606-9402-4f40-ba8a-48dde0b92b42
+m	java:S106"+Replace this use of System.out by a logger.(Ò”ò·8–é‰÷1J$0f6f6040-57f8-4e63-91da-f321b90dc40e
+r	java:S106 "+Replace this use of System.out by a logger.(¶©Ôóúÿÿÿÿ8—é‰÷1J$135a4f08-bbd9-4e29-97a1-bae453d7db42
+m	java:S106!"+Replace this use of System.out by a logger.(í¯ÂÏ8àµé¶÷1J$7cc35e7f-d837-423e-975f-e1f9d1b52d92
+r	java:S106""+Replace this use of System.out by a logger.(™ªÑçÿÿÿÿÿ8ê´Ïº÷1J$02ad9361-0cdc-443b-af2f-6eb6580a40aa

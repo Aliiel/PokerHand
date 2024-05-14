@@ -1,13 +1,16 @@
 
 œ
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­šù8Ì‚è·÷1J$99e327f9-da8d-454d-a011-96ea182cc98b
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­šù8ûã¸º÷1J$f1bb5f1c-803a-4295-8284-bc56dccb747c
 “
-java:S3776"PRefactor this method to reduce its Cognitive Complexity from 6 to the 2 allowed.(âÚ‡€8ü‚è·÷1J$9d0d1a6b-4e5d-47a1-949d-ff3cf459500b
+java:S3776"PRefactor this method to reduce its Cognitive Complexity from 6 to the 2 allowed.(âÚ‡€8Çä¸º÷1J$acb0f137-f4cf-4dd8-bd87-76cd17cd08ec
 ˜
-java:S3776'"PRefactor this method to reduce its Cognitive Complexity from 6 to the 2 allowed.(ŠÂÈ×ÿÿÿÿÿ8€ƒè·÷1J$14a70211-2b66-4d4d-9535-0efb58a2b025
+java:S3776)"PRefactor this method to reduce its Cognitive Complexity from 6 to the 2 allowed.(ŠÂÈ×ÿÿÿÿÿ8Ëä¸º÷1J$c6c75e20-d60a-4967-bdb2-8d8c50961c04
 ”
-java:S37769"QRefactor this method to reduce its Cognitive Complexity from 10 to the 2 allowed.(¦Åº©8ƒè·÷1J$c0639147-b181-4595-a901-6b75e2dcb685
+java:S3776;"QRefactor this method to reduce its Cognitive Complexity from 10 to the 2 allowed.(¦Åº©8Ïä¸º÷1J$4e78753b-ae68-4dab-97c1-0c6c05ab3f59
+˜
+java:S3776U"PRefactor this method to reduce its Cognitive Complexity from 4 to the 2 allowed.(Î¹¨‡ùÿÿÿÿ8Óä¸º÷1J$4b0da0dc-3fbc-4bfb-a118-6ad161e698fb
 ™
-java:S3776]"QRefactor this method to reduce its Cognitive Complexity from 10 to the 2 allowed.(¬ßó¯şÿÿÿÿ8ƒè·÷1J$a9c02e33-df77-4710-ac23-171e31e5d7bb
+java:S3776o"QRefactor this method to reduce its Cognitive Complexity from 10 to the 2 allowed.(¬ßó¯şÿÿÿÿ8Ùä¸º÷1J$f93da811-12d8-4c38-a94a-4af90765f4cf
 n
-java:S1068"+Remove this unused "joueurs" private field.(±à¶8Šƒè·÷1J$88ec741f-e8be-4e36-9708-a9eaebe0770b
+java:S1068
+"+Remove this unused "joueurs" private field.(±à¶8àä¸º÷1J$ba934cf9-0e60-42cf-8019-521e83bbf385
